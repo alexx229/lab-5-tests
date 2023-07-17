@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\testy-lab5.props" />
+</Project>
